@@ -1,1 +1,1 @@
-FROM zookeeper
+FROM redis
